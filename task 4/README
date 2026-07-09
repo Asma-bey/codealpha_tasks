@@ -1,0 +1,20 @@
+# Object Detection and Tracking (YOLO + SORT)
+
+## Description
+
+This project performs real-time object detection using YOLOv8 and tracks objects using SORT.
+
+## Features
+
+- Auto detection (YOLO built-in)
+- Manual detection (custom bounding boxes)
+- Class filtering (person)
+- Object tracking with IDs
+
+## Requirements
+
+pip install -r requirements.txt
+
+## Run
+
+python main.py
