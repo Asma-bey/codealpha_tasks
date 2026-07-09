@@ -21,4 +21,11 @@ An interactive FAQ-based chatbot built using **NLP techniques** and **Streamlit*
 - NLTK
 - Scikit-learn
 
+## 📸 Screenshots
+
+### 💬 Chat Interface
+![Chat UI](images/chatUI.png)
+
+### ✨ Motivational Feature
+![Motivation](images/motivationQuote.png)
 
